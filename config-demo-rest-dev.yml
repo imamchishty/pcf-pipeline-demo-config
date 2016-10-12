@@ -1,0 +1,2 @@
+database-pool-size: 1
+env-message: dev
